@@ -31,7 +31,7 @@ Rocky et Debian sont deux distribution linux open source qui utilisent le noyau 
 - **Aptitude is smarter and will automatically remove unused packages or suggest installation of dependent packages**
 - Apt will only do explicitly **what it is told to do in the command line**
 
-![1 vRgjWvlyZsTHhO3_4Qsvlg.webp](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/78cc8453-b2e1-41e2-a80d-7946870a3ade/1_vRgjWvlyZsTHhO3_4Qsvlg.webp)
+![1 vRgjWvlyZsTHhO3_4Qsvlg.webp](https://raw.githubusercontent.com/FXC-ai/born2beroot/refs/heads/main/1%20vRgjWvlyZsTHhO3_4Qsvlg.webp)
 
 ## What is AppArmor ?
 
