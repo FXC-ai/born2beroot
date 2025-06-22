@@ -108,7 +108,7 @@ La ligne `Defaults requiretty` dans le fichier `/etc/sudoers` spécifie que la c
 
 ## Explanation about authorization in sudoers
 
-![explications-commandes-sudo-linux.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/22f8559e-216d-41e5-8678-e5ed53aeb744/explications-commandes-sudo-linux.jpg)
+![explications-commandes-sudo-linux.jpg](https://github.com/FXC-ai/born2beroot/blob/main/explications-commandes-sudo-linux.jpg)
 
 ## Commands
 
